@@ -8,9 +8,9 @@ It is currently not secured and is meant to be used for a CI server.
 
 # Usage
 
-docker pull jipiboily/postgresql-9.3-for-ci
-docker run -d jipiboily/postgresql-9.3-for-ci
+- docker pull jipiboily/postgresql-9.3-for-ci
+- docker run -d jipiboily/postgresql-9.3-for-ci
 
 ## Credentials
-database user: ci
-database password: ci
+- database user: ci
+- database password: ci
